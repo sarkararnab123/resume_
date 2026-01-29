@@ -7,9 +7,11 @@ A simple resume website built using pure HTML5.
 This project displays personal information, skills, experience, projects, education, and contact details in a clean and structured format.
 
 <h2>Features</h2>
-Semantic HTML (header, section, footer)
-Clean and readable structure
-Tables for experience & education
-Lists for skills and projects
-No CSS or JavaScript required
-Easy to customize
+<ul>
+<li>Semantic HTML (header, section, footer)</li>
+<li>Clean and readable structure </li>
+<li>Tables for experience & education </li>
+<li>Lists for skills and projects</li>
+<li>No CSS or JavaScript required</li>
+<li>Easy to customize</li>
+</ul>
